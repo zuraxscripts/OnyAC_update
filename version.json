@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "important": true,
+  "changelog": "Improved detection, optimized callbacks, multi-channel logging, and bug fixes."
+}
